@@ -22,10 +22,6 @@ This project is a clone of the user interface (UI) of the popular e-commerce pla
 
 - **JavaScript**: Programming language for implementing interactive features and behaviors.
 
-- **React**: JavaScript library for building user interfaces, used for component-based development.
-
-- **Redux**: State management library for managing application state in a predictable way.
-
 ## Usage 📝
 
 1. Clone the repository:
