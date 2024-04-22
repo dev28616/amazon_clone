@@ -10,10 +10,6 @@ This project is a clone of the user interface (UI) of the popular e-commerce pla
 
 - **Search Functionality**: Allows users to search for products using keywords and filters.
 
-- **Shopping Cart**: Implements a shopping cart feature where users can add and remove items before checkout.
-
-- **User Authentication**: Includes user authentication functionality for login and registration.
-
 ## Technologies Used 💻
 
 - **HTML**: Markup language for structuring the web pages.
