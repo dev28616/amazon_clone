@@ -23,7 +23,7 @@ This project is a clone of the user interface (UI) of the popular e-commerce pla
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/amazon-ui-clone.git
+   git clone https://github.com/dev28616/amazon-ui-clone.git
    ```
 
 2. Install the required dependencies:
